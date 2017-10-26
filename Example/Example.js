@@ -147,6 +147,7 @@ const Example = () => (
                     inactiveBackgroundColor="#FFF"
                     activeBackgroundColor="#DDD"
                     icon={TabIcon}
+                    hideTabBar
                     navigationBarStyle={{ backgroundColor: 'green' }}
                     titleStyle={{ color: 'white', alignSelf: 'center' }}
                   >

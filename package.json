@@ -45,7 +45,7 @@
     "prettier-eslint": "^6.4.2",
     "prettier-eslint-cli": "^4.1.1",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.45.1",
+    "react-native": "0.46.1",
     "react-test-renderer": "16.0.0-alpha.12"
   },
   "peerDependencies": {
